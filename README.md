@@ -1,1 +1,1 @@
-In this project i am going to make a simple collection of recipes with pictures and instructions. I am doing this to get comfortable with the boiler plate html. Headings, images, linking between files, making git commits.
+This is the second attempt to complete TheOdinProject having restarted once. In this specific assignment i will make a simple recipe website.
